@@ -1,0 +1,51 @@
+<?php
+return [
+    'settings_group' => 'settings group',
+    'services_group' => 'services group',
+    'patients_group' => 'patients group',
+
+    'create' => 'create',
+    'read' => 'read',
+    'update' => 'update',
+    'delete' => 'delete',
+    'transfer' => 'transfer',
+    'show_phone' => 'show phone',
+    'retrieve' => 'retrieve',
+    'discount' => 'discount',
+    'pay_visit' => 'pay visit',
+    'lab_requests' =>'طلبات المختبر',
+
+    'settings' => 'settings',
+    'roles' => 'roles',
+    'departments' => 'departments',
+    'countries' => 'countries',
+    'cities' => 'cities',
+    'relationships' => 'relationships',
+    'insurances' => 'insurances',
+    'notifications' => 'notifications',
+
+    'users' => 'users',
+    'appointments' => 'appointments',
+    'invoices' => 'invoices',
+    'products' => 'products',
+    'forms' => 'forms',
+    'scan_names' => 'scan names',
+    'offers' => 'offers',
+
+    'patients' => 'patients',
+    'diagnoses' => 'diagnoses',
+    'patient_groups' => 'patient groups',
+    'files' => 'files',
+    'scan_requests' => 'scan requests',
+    'purchases' => 'purchases',
+    'expenses' => 'expenses',
+    'reports' => 'reports',
+    'transfered' => 'transfered',
+    'presence' => 'presence',
+    'waiting_patients' => 'waiting patients',
+    'profile' => 'profile',
+    "cost_centers" => "Cost Centers",
+    'marks' => 'Marks',
+
+
+];
